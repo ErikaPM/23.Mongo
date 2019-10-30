@@ -1,0 +1,15 @@
+Secuencia lógica de:
+
+1.Para crear una base de datos:
+
+use tablaAdministrativa
+
+2.Para crear una colección:
+
+db.tablaRecursosHumanos.save({nombre: "Ana", Apellido: "Lopez"})
+db.tablaRecursosHumanos.save({nombre: "Diana", Apellido: "Jimenez"})
+
+3. Insertar:
+
+db.nombreColeccion.insert
+
